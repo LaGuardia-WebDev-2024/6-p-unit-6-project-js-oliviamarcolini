@@ -11,10 +11,11 @@ void draw(){
   strokeWeight(1);
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
- background(109, 168, 168);
 
+background(#657096);
 translate(-10, 24)
 noStroke();
+
 //hat
 fill(6, 138, 211);
 triangle(20, 220, 60, 200, 60, 250);
